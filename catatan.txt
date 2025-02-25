@@ -1,0 +1,6 @@
+murid:
+1. usn: murid1,pass: 12
+
+guru:
+1. usn: guru1,pass: 12
+2. usn: guru2,pass: 12
